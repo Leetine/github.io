@@ -1,3 +1,13 @@
 theme: jekyll-theme-time-machine
 title: Welcome to Tingting Li's homepage!
 description:  Senior student majoring in computer science
+---
+title: Hello World # 标题
+date: 2019/3/26 hh:mm:ss # 时间
+categories: # 分类
+- Diary
+tags: # 标签
+- PS3
+- Games
+---
+**This is a sentence**
